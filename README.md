@@ -1,4 +1,9 @@
-# MULTI-CLASS-CLASSIFICATION
+### EX NO: 03
+
+### DATE: 
+
+
+# <p align = "center"> MULTI-CLASS-CLASSIFICATION </p>
 ## Aim:
 To write a python program to implement the multi class classification algorithm .
 
@@ -22,13 +27,13 @@ The number of classifier models depends on the classification technique we are a
 4.summarize first few examples.\
 5.plot the dataset and color the by class label
 
-## Program:
+## <br/><br/><br/><br/><br/> Program:
 ```
 /*
 Program to implement the multi class classifier.
-Developed by: DHANASEKAR.G
+Developed by: DHANASEKAR G
 RegisterNumber: 212220230009
-*/
+*
 ```
 ```python
 from numpy import where
@@ -49,8 +54,8 @@ pyplot.legend()
 pyplot.show()
 
 ```
-## Output:
-![d](https://user-images.githubusercontent.com/75235427/164037956-eb83eebb-5a43-4255-a7bf-05451f0a5ffb.jpg)
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
+<br/>![d](https://user-images.githubusercontent.com/75235789/164008098-a7efe415-064f-4b41-8e80-4020ae7c34a3.jpg)
 
-## Result:
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Result:
 Thus the python program to implement the multi class classification was implemented successfully.
